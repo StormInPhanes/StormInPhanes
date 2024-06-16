@@ -7,9 +7,11 @@
         "id": "653b68f7b5fa9541",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "pictures/Antediluvian 3.jpg"
+            "file": "Patricia Schwartz.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Antediluvian 3.jpg",
+                "file": "Patricia Schwartz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Antediluvian 3.jpg",
+                "file": "Patricia Schwartz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Antediluvian 3.jpg"
+                "file": "Patricia Schwartz.md"
               }
             }
           }
@@ -128,15 +130,15 @@
   },
   "active": "653b68f7b5fa9541",
   "lastOpenFiles": [
-    "pictures/Astrid.png",
-    "pictures/Antediluvian 3.jpg",
-    "pictures/Antediluvian 2.jpeg",
-    "pictures/Antediluvian 1.jpeg",
-    "Black Dog.md",
-    "Pleroma.md",
-    "Albedo Union.md",
-    "Akira.md",
-    "Admiral Cobalt.md",
-    "Brunhilde von mandina.md"
+    "dmnotes/dm notes.md",
+    "pictures/Sister Vidomina.jpg",
+    "pictures/Protogonus Map 2.png",
+    "pictures/Protogonus Map 1.png",
+    "pictures/Protogonus Map.png",
+    "pictures/Phanes Map Handpainted.jpeg",
+    "pictures/Phanes Map.png",
+    "pictures/Isabella Stormwind.png",
+    "pictures/Patricia.png",
+    "pictures/Lions Eye.png"
   ]
 }
