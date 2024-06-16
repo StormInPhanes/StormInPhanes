@@ -1,0 +1,1 @@
+Lightkeeper of the [[Candle (lighthouse)]]. She died, killed by a shadow demon during the [[Sea demon monsters]] attack of [[Gray Port]]. She was a half-elf originally from the fey wild hiding her true nature by living a secluded life in the [[Candle (lighthouse)]].

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "92affa8493eb8852",
+    "type": "split",
+    "children": [
+      {
+        "id": "653b68f7b5fa9541",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brunhilde von mandina.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9465ee9b932f35f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b31a9ab131ae6412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4815c46d426cbc42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee654e23c211b0db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "450aa4f01393834f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "796d3c791bb326bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f7609c07f8d70fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95c3ca36d0ec7586",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brunhilde von mandina.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d92b2e5e1fb8ba60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brunhilde von mandina.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42c2d3257f6243a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfebb69d39c697ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brunhilde von mandina.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "653b68f7b5fa9541",
+  "lastOpenFiles": [
+    "Bes.md",
+    "Astrid.md",
+    "Arsay.md",
+    "Admiral Cobalt.md",
+    "Akira.md",
+    "Tristan.md",
+    "Triya.md",
+    "Zykh.md",
+    "Zanias.md",
+    "Velen.md"
+  ]
+}

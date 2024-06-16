@@ -1,0 +1,1 @@
+Wanted man with a goatee and a hat. [[Jeremiah Crow]] promised a 1000 GP reward to snoop Black Doggy Dogg because apparently he stole something from him.

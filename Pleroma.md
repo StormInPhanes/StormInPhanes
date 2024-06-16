@@ -1,0 +1,2 @@
+A demiplane inhabited by the [[Demiurges]].
+It is believed that all the people who follow the Demiurges religion go to Pleroma after they die. The [[Albedo Union]] has something to do with this demiplane.

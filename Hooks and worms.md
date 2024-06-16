@@ -1,0 +1,1 @@
+A fishing shop located in [[Gray Port]], on the way to the [[Candle (lighthouse)]].

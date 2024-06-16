@@ -1,0 +1,3 @@
+The [[Caducea]]n ship that was carrying [[Brunhilde]], [[Kedisa]], [[Kork Vingård]] and [[Triya]] (the navigator of the ship) to [[Phanes]] ([[Gray Port]]).
+Onboard the Indomitable there was also Bug, a now deceased sailor and brother of [[Maurice Dellunay]], [[Patricia Schwartz]], who now works at the [[Secret Stone]] in [[Gray Port]], [[Astrid]], a tiefling baby that now lives stays with Patricia, as well as multiple members of the [[Emerald Enclave]] who were guarding a secret room.
+After the attack of the [[Sea demon monsters]] and the Leviathan (?) in session 1, the remains of the sunken Indomitable now rest at the bottom of the ocean, south-west of [[Sif]].

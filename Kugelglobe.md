@@ -1,0 +1,3 @@
+
+A strange spherical object that irradiates light.
+Found by [[Triya]] on a beach in [[Synthea]]. LPH later discovered that the globe was probably from [[Phanes]] since it fits perfectly in an artifact stand that the party found in an underground [[Antediluvians]] ossuary underneath [[Sif]]. LPH got a confirmation of this theory when the [[Antediluvians]] ([[Stargazers]]) that [[Triya]] faced in the [[Temple of Bes]] performed the same type of magic that [[Triya]] does. 

@@ -1,0 +1,1 @@
+A hunter from [[Molekith]] who came to [[Vagrant's Retreat]] in search of a special tiefling ([[Kedisa]]), who was originally supposed to be ritually sacrificed to [[Molokh]] but who has now become an important political figure in [[Molekith]]. [[Kedisa]] has become an example of resistance to [[Molekith]] for the revolutionary movements that opposes the empire.

@@ -1,0 +1,2 @@
+Bes is an [[Antediluvians]] divinity. The [[Temple of Bes]] is located in [[Sif]], south of [[Vagrant's Retreat]].
+An inscription under the statue in the temple says "Bes, slayer of giants, the first unifier of tribes".

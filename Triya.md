@@ -1,0 +1,1 @@
+Druid? Navigator? Spiteful bear? 

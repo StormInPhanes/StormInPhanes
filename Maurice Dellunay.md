@@ -1,0 +1,3 @@
+Used to own the [[Sailor's Melody]] tavern in [[Gray Port]]. He is Bug's brother (a sailor that became friend with some of LPH members while they were travelling to [[Phanes]] onboard the [[Indomitable]]) and is from [[Synthea]].
+
+Maurice (after receiving the Fiddle that Bug, before dying, asked the party to deliver to his brother), tasked LPH to accompany him to the [[Vagrant's Retreat]] to deliver the Fiddle and its content to [[Jeremiah Crow]]. LPH later discovered that the Fiddle contained a bunch on [[Lion's Eyes]] (precious bright green artifact gems). LPH later delivered the gems to [[Jeremiah Crow]] and received payment in platinum.

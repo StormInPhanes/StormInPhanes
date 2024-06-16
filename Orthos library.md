@@ -1,0 +1,2 @@
+Orthros library in [[Caducea]] hosts the most famous collection of literature in all of [[Umun]]. It's a gargantuan building standing tall in the city center. Part of it is open to public where scholars of the land gather to learn and contribute to all topics of art and science. However the larger part 
+"the unseen archive" is guarded by an organization that is directly answering to demiurge himself, the [[Hermetic Order]].

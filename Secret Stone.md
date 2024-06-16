@@ -1,0 +1,2 @@
+An alchemical shop located in [[Gray Port]], on the fort side of the city, next to the entrance of the fort. Owned by [[Miller]]. [[Patricia Schwartz]] now works and lives there together with [[Astrid]].
+COuld be the location where [[Rage]] is produced for [[Damian Moreau]].

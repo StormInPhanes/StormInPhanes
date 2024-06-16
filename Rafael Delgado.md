@@ -1,0 +1,2 @@
+According to [[Admiral Cobalt]], Delgado was a shady fellow who dealt with the buccaneers. He left [[Gray Port]] one month before the [[Sea demon monsters]] attack.
+Maybe he is a fellow [[Brothers of the Coast]]? Does he have any ties with [[Jeremiah Crow]]?

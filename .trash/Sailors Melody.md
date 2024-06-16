@@ -1,0 +1,3 @@
+A tavern located on the port side side of [[Gray Port]], right next to the bridge that connects the port side to the fort side. The tavern used to be owned by [[Maurice Dellonay]] but it has now been abandoned due to the attack on [[Gray Port]] by the [[Sea demon monsters]].
+
+Connected to the [[Sif's Charity]] through an underground railroad tunnel used for smuggling, it is infested by monsters though.

@@ -1,0 +1,1 @@
+[[Damian Moreau]] told LPH that the professor was indeed in [[Sif]] but moved to [[Perun]] two months before their arrival. During his stay on [[Sif]] he visited [[The Staff and the Serpent]], a magic shop on the port side of the [[Gray Port]].

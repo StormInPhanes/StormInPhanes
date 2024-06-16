@@ -1,0 +1,2 @@
+The Silvery Ocean separates the two monolithic continents of [[Umun]] in the west and [[Zykh]] in the east. The Silvery Ocean is called so for its waters that at times become opaque and shine in the sun as it grows fat with swarms of plankton.
+****![](https://lh5.googleusercontent.com/EgjEiduB__2SOmiI2t8Rp_jp-nZa-1tvkGiNNNQIYGwrs-Guewzw_vP6YjZk53OnlTd3qOJ93VfGyRg5RcfytWzNhaVjEGm6nMrxxale4JNA3EoRrZ_SygkrlOoa58bZOzDcH1V1lHoLX-o_q-DnkmA)**

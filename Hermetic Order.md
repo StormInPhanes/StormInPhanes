@@ -1,0 +1,15 @@
+There are four main orders in [[Caducea]] which are the branches that extend the demiurge's will: the Hermetic Order, the [[Grave Knights]], the [[Emerald Enclave]] and the [[Albedo Union]].
+Both the [[Orthos library]] and the hermetic order were started by the demiurge Orthros the wise, the library and one of the islands in Phanes were named after him
+The hermetic order is very hierarchical and non-transparent. The structure of this community is layered like an onion in a way that from outside layers you don't really see what's inside nor how many layers there is, nor who's in charge of what. The outermost layer being the public sections of the library, the second level is the initiate, someone who is trying to prove himself as worthy, and you're basically at the "third layer" adept, you're granted access to some parts of the hidden archive and you know some of the order's agenda. You don't know about all the members, but your direct mentors could be your friend and the professor that went to Phanes.
+The sages of the hermetic order are responsible for archiving and protecting knowledge that is considered forbidden. Hermetics worship true knowledge and would never destroy anything however dangerous it is, however they also know that there are many things that should never become common knowledge. Words of power is one such knowledge. Hence the order has two goals: learn the forbidden truths, and hoard it from the unworthy.
+This cabal is responsible for archiving sensitive information that is cognitohazardous, threatening existence or perhaps just too powerful to wield. Such information includes the words of power, which is magic in the purest form. Words of power are the "real names" of things and concepts, and by invoking them the magician can manipulate their nature.
+
+A lot of the knowledge is somehow based on the creation myths, you are aware that they are teaching magic that precedes the current arcane tradition and is somehow tied to the beginning of creation. One such example is the words of power. One of the theories on the creation of the universe is that first there was primordial chaos, a hot mess. But then there was a song. The song sang about the worlds that would be and they came into existence. Every aspect of the world has a name for it, the true names of things, and they are the words of power. If someone would know the words of power and utter them, they would cause a resonance to the primordial song and potentially invoke those concepts into existence
+
+The secret greeting of the order:  if one sage says "as above" the other responds "so below"
+
+A commoner would know that the order runs the library and indirectly is responsible for the caducean education system. They are also patrons of alchemy and industry, contributing here and there to better the society hermetic order are not really wizards or fighters, they are sages, but they are still tough guys able to protect the library.
+
+Structure and crest of the Hermetic Order:
+
+![[pictures/Hermetic Order Structure.png|690]]]]
