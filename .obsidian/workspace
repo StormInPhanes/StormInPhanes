@@ -7,11 +7,9 @@
         "id": "653b68f7b5fa9541",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Brunhilde von mandina.md",
-            "mode": "source",
-            "source": false
+            "file": "pictures/Antediluvian 3.jpg"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brunhilde von mandina.md",
+                "file": "pictures/Antediluvian 3.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brunhilde von mandina.md",
+                "file": "pictures/Antediluvian 3.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brunhilde von mandina.md"
+                "file": "pictures/Antediluvian 3.jpg"
               }
             }
           }
@@ -130,15 +128,15 @@
   },
   "active": "653b68f7b5fa9541",
   "lastOpenFiles": [
-    "Bes.md",
-    "Astrid.md",
-    "Arsay.md",
-    "Admiral Cobalt.md",
+    "pictures/Astrid.png",
+    "pictures/Antediluvian 3.jpg",
+    "pictures/Antediluvian 2.jpeg",
+    "pictures/Antediluvian 1.jpeg",
+    "Black Dog.md",
+    "Pleroma.md",
+    "Albedo Union.md",
     "Akira.md",
-    "Tristan.md",
-    "Triya.md",
-    "Zykh.md",
-    "Zanias.md",
-    "Velen.md"
+    "Admiral Cobalt.md",
+    "Brunhilde von mandina.md"
   ]
 }
