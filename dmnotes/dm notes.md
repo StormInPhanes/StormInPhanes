@@ -274,3 +274,4 @@ Kedissa Turns into a blonde woman, Kork gets eagle's splendor.
 
 4pm 
 Group enter Zanias's chamber. Kork was right about his suspicions, zanias is actually a 5m tall demon. Zanias wipes the floor with LPH, Rieta almost dies (really, 1hp to instant death). Zanias walks away.
+
